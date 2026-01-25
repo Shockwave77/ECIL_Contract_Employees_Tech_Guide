@@ -1,0 +1,13 @@
+# ninja log v5
+5	1151	7874293122485176	ConsApp_autogen/timestamp	9d10bc5af2b2a6e6
+5	1151	7874293122485176	ConsApp_autogen/mocs_compilation.cpp	9d10bc5af2b2a6e6
+5	1151	7874293122485176	D:/Git/QtBasics/HW2/ConsApp/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/ConsApp_autogen/timestamp	9d10bc5af2b2a6e6
+5	1151	7874293122485176	D:/Git/QtBasics/HW2/ConsApp/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/ConsApp_autogen/mocs_compilation.cpp	9d10bc5af2b2a6e6
+1152	4322	7874293154797517	CMakeFiles/ConsApp.dir/ConsApp_autogen/mocs_compilation.cpp.obj	57e7d61691bf498c
+1159	4356	7874293155157449	CMakeFiles/ConsApp.dir/test.cpp.obj	bb6d7f9d4fbf480c
+35	305	7874293424713012	ConsApp_autogen/timestamp	9d10bc5af2b2a6e6
+35	305	7874293424713012	ConsApp_autogen/mocs_compilation.cpp	9d10bc5af2b2a6e6
+35	305	7874293424713012	D:/Git/QtBasics/HW2/ConsApp/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/ConsApp_autogen/timestamp	9d10bc5af2b2a6e6
+35	305	7874293424713012	D:/Git/QtBasics/HW2/ConsApp/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/ConsApp_autogen/mocs_compilation.cpp	9d10bc5af2b2a6e6
+311	1931	7874293440974379	CMakeFiles/ConsApp.dir/main.cpp.obj	306275f4af635c23
+1932	3029	7874293451927305	ConsApp.exe	c93f6fb4949ecafd
