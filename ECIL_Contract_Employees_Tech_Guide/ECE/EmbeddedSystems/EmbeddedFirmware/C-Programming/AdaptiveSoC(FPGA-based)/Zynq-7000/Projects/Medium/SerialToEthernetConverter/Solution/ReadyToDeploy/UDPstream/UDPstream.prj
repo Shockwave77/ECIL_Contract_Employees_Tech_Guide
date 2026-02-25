@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="UDPstream" location="D:/Vitis_workspace/EIU_Eth/UDPstream" platform="D:/Vitis_workspace/EIU_Eth/BAREudp11feb26/export/BAREudp11feb26/BAREudp11feb26.xpfm" platformUID="xilinx:pynq-z2::0.0(custom)" systemProject="UDPstream_system" sysConfig="BAREudp11feb26" runtime="C/C++" cpu="standalone_domain" cpuInstance="ps7_cortexa9_0" os="standalone" mssSignature="b0ba8adcdca6f4ad55ea9d3e671dd65e">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.1702523691">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.640935241" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="lwip_echo_server" hasBspSettings="true"/>
+</sdkproject:SdkProject>

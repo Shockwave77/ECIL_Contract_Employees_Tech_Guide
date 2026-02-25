@@ -1,8 +1,0 @@
-# ninja log v5
-28	177	7873236198225810	HelloWorld_autogen/timestamp	c941365b12ad40d9
-28	177	7873236198225810	HelloWorld_autogen/mocs_compilation.cpp	c941365b12ad40d9
-28	177	7873236198225810	D:/Git/QtBasics/HelloWorld/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/HelloWorld_autogen/timestamp	c941365b12ad40d9
-28	177	7873236198225810	D:/Git/QtBasics/HelloWorld/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/HelloWorld_autogen/mocs_compilation.cpp	c941365b12ad40d9
-332	501	7873233254443704	CMakeFiles/HelloWorld.dir/HelloWorld_autogen/mocs_compilation.cpp.obj	302d2186d2328a06
-180	2015	7873236216638476	CMakeFiles/HelloWorld.dir/main.cpp.obj	e1b73fab9510d99e
-2016	2134	7873236217775212	HelloWorld.exe	808b3c70bda2440e
