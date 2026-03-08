@@ -22,7 +22,7 @@ Every skill in this repository (e.g., C Programming, Scripting, etc.) is divided
 
 Follow this step-by-step workflow to get the most out of your training:
 
-![Detailed Learning Workflow](images/Detailed_workflow.jpg)
+![Detailed Learning Workflow](images/Detailed_workflow.png)
 
 ### The Step-by-Step Process:
 1. **Start Blind:** Navigate to a skill's `project/Basic/` folder and open the `problem_statement.md`. Attempt to solve the task (like printing "Hello World") even if you have zero theoretical background.
