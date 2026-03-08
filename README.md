@@ -59,4 +59,8 @@ Apply the newly acquired theoretical understanding back to the project. Modify, 
 
 ---
 
+<<<<<<< HEAD
 **By adhering to this systematic loop, you develop practical engineering intuition validated by rigorous technical theory.**
+=======
+**By adhering to this systematic loop, you develop practical engineering intuition validated by rigorous technical theory.**
+>>>>>>> c30b13020f273e0667b3129c85f3e3951c65468b
