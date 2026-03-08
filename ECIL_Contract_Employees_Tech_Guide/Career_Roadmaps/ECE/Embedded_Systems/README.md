@@ -19,7 +19,7 @@ The industry does not reward years of experience; it rewards capability. Traditi
 ### The Master Navigation Roadmap
 Consult the strategic blueprint below. This map dictates your exact learning and execution sequence based on whether you are pursuing firmware architecture or physical hardware design.
 
-![Embedded Systems Career Path Blueprint](../../../images/Career_Roadmaps/Embedded_Systems/EmbeddedSystemEngineerCareerPath.png)
+![Embedded Systems Career Path Blueprint](../../../../images/Career_Roadmaps/Embedded_Systems/EmbeddedSystemEngineerCareerPath.png)
 *(Note: Start at the top to define your timeline, then split into your chosen technical domain.)*
 
 ---
@@ -42,7 +42,7 @@ Follow this systematic workflow to navigate the roadmaps and execute your career
 ### Step 01 | The Base Strategy
 Review the **Part-time Learning Strategy** flowchart below. Decide whether your current financial runway dictates a 6-month full-time immersion (Educational Loan) or a disciplined 9 PM to 1 AM part-time hustle.
 
-![Part-time Learning Strategy](../../../images/Career_Roadmaps/Embedded_Systems/SideHustle.png)
+![Part-time Learning Strategy](../../../../images/Career_Roadmaps/Embedded_Systems/SideHustle.png)
 
 ### Step 02 | Identify the Traps
 Navigate into your chosen domain folder (`Embedded_SW/` or `Embedded_HW/`) and open **`Phases of Building actual core knowledge and How to avoid TRAPS`**. Utilize the respective flowchart below to identify exactly where your system-level architectural knowledge ends.
@@ -50,13 +50,13 @@ Navigate into your chosen domain folder (`Embedded_SW/` or `Embedded_HW/`) and o
 <details>
   <summary>View Embedded Software Execution Flow (EmbeddedSW.png)</summary>
 
-  ![Embedded Software Execution Flow](../../../images/Career_Roadmaps/Embedded_Systems/Embedded_SW/EmbeddedSW.png)
+  ![Embedded Software Execution Flow](../../../../images/Career_Roadmaps/Embedded_Systems/Embedded_SW/EmbeddedSW.png)
 </details>
 
 <details>
   <summary>View Embedded Hardware Execution Flow (Embedded Hardware.png)</summary>
 
-  ![Embedded Hardware Execution Flow](../../../images/Career_Roadmaps/Embedded_Systems/Embedded_HW/Embedded%20Hardware.png)
+  ![Embedded Hardware Execution Flow](../../../../images/Career_Roadmaps/Embedded_Systems/Embedded_HW/Embedded%20Hardware.png)
 </details>
 
 ### Step 03 | Analyze the Market Value
