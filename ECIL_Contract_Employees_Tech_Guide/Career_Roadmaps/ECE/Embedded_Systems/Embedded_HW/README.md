@@ -44,7 +44,7 @@ Notice that every phase has a \*\*"TRAP"\*\*. Junior engineers typically fall in
 
 &nbsp; 
 
-&nbsp; !\[Embedded Hardware Execution Flow](../../../../images/Career\_Roadmaps/Embedded\_Systems/Embedded\_HW/Embedded%20Hardware.jpg)
+&nbsp; !\[Embedded Hardware Execution Flow](../../../../../images/Career\_Roadmaps/Embedded\_Systems/Embedded\_HW/Embedded%20Hardware.jpg)
 
 </details>
 
