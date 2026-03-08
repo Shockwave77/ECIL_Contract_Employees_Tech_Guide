@@ -48,15 +48,15 @@ Review the **Part-time Learning Strategy** flowchart below. Decide whether your 
 Navigate into your chosen domain folder (`Embedded_SW/` or `Embedded_HW/`) and open **`Phases of Building actual core knowledge and How to avoid TRAPS`**. Utilize the respective flowchart below to identify exactly where your system-level architectural knowledge ends.
 
 <details>
-  <summary>View Embedded Software Execution Flow (EmbeddedSW.png)</summary>
-
-  ![Embedded Software Execution Flow](../../../../images/Career_Roadmaps/Embedded_Systems/Embedded_SW/EmbeddedSW.png)
+  <summary><b>View Embedded Software Execution Flow (EmbeddedSW.png)</b></summary>
+  <br>
+  <img src="../../../../images/Career_Roadmaps/Embedded_Systems/Embedded_SW/EmbeddedSW.png" alt="Embedded Software Execution Flow">
 </details>
 
 <details>
-  <summary>View Embedded Hardware Execution Flow (Embedded Hardware.png)</summary>
-
-  ![Embedded Hardware Execution Flow](../../../../images/Career_Roadmaps/Embedded_Systems/Embedded_HW/Embedded%20Hardware.png)
+  <summary><b>View Embedded Hardware Execution Flow (Embedded Hardware.png)</b></summary>
+  <br>
+  <img src="../../../../images/Career_Roadmaps/Embedded_Systems/Embedded_HW/Embedded%20Hardware.png" alt="Embedded Hardware Execution Flow">
 </details>
 
 ### Step 03 | Analyze the Market Value

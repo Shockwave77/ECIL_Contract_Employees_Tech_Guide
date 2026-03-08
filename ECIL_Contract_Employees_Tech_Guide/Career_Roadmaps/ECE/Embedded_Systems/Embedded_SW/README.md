@@ -8,7 +8,6 @@ We are standing at the edge of a computing revolution. The era of relying entire
 
 **The industry does not just need coders; it desperately needs Embedded Architects.** It needs engineers who can squeeze machine learning models into microcontrollers, compile custom, hyper-efficient Linux distributions from source, and seamlessly bridge the gap between underlying hardware physics and high-level application logic.
 
-
 ---
 
 ## 1. The Execution Flow: Visualizing Your Evolution
@@ -19,10 +18,8 @@ Study this execution flow. It highlights the exact "Traps" that keep talented en
 
 <details open>
   <summary><b>View Embedded Software Execution Flow</b></summary>
-  
   <br>
-  
-  ![Embedded Software Execution Flow](../../../../images/Career_Roadmaps/Embedded_Systems/Embedded_SW/EmbeddedSW.png)
+  <img src="../../../../../images/Career_Roadmaps/Embedded_Systems/Embedded_SW/EmbeddedSW.png" alt="Embedded Software Execution Flow">
 </details>
 
 ---
@@ -33,14 +30,14 @@ This folder contains three master documents. Consume them in this order:
 
 ### 📄 `Phases_and_Traps_SW.md`
 * **What it is:** The deep-dive coaching guide that expands on the visual flowchart above. 
-* [cite_start]**Why you need it:** It provides the raw, unvarnished truth about why standard embedded coding (like simple `while(1)` polling loops) is obsolete[cite: 504]. It teaches you how to master concurrency, drop into Linux kernel space, and conquer hardware-software co-design.
+* **Why you need it:** It provides the raw, unvarnished truth about why standard embedded coding (like simple `while(1)` polling loops) is obsolete. It teaches you how to master concurrency, drop into Linux kernel space, and conquer hardware-software co-design.
 
 ### 📄 `RD_Design_Offers_SW.md`
 * **What it is:** The R&D Pivot Matrix detailing success probabilities and Tier-1 salary bands.
-* **Why you need it:** To see the immense value of your potential. When you build these skills, you become incredibly scarce and highly compensated. [cite_start]This document proves that mastering algorithms and custom OS architecture unlocks Tier-1 roles reaching ₹70.0+ LPA[cite: 501, 502]. 
+* **Why you need it:** To see the immense value of your potential. When you build these skills, you become incredibly scarce and highly compensated. This document proves that mastering algorithms and custom OS architecture unlocks Tier-1 roles reaching ₹70.0+ LPA. 
 
 ### 📄 `Year-by-Year_Matrix_SW.md`
-* [cite_start]**What it is:** A surgical, year-by-year breakdown of your specific technical gaps and the exact portfolio projects required to close them[cite: 504, 505, 506, 507].
+* **What it is:** A surgical, year-by-year breakdown of your specific technical gaps and the exact portfolio projects required to close them.
 * **Why you need it:** To eliminate confusion. Find your exact experience level, accept the reality of your current trap, and begin executing the 6-month pivot strategy today.
 
 ---
